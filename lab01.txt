@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include <cmath> // библиотека для sqrt и log
+#include <cmath> // library for sqrt и log
 using namespace std;
 
 
@@ -10,11 +10,10 @@ int main()
 {
  
 	int e;
- // для основания логарифма 
+ // for base of log 
 	double a, b;
   
-	int c; // для выбора операции
- 
+	int c; // to select an operation
 	char d;
   
 
