@@ -18,3 +18,7 @@
 01/01/stdafx\.h
 
 01/01/targetver\.h
+
+*.lnk
+
+*.ini
