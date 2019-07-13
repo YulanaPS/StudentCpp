@@ -1,0 +1,4 @@
+﻿  Calculator_Form.cpp
+c:\yulana\calculator\calculator\calculator_form.cpp(6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Calculator_Form.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> C:\Yulana\Calculator\Debug\Calculator.exe
